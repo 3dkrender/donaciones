@@ -1,0 +1,87 @@
+{
+    "____comment": "This file was generated with eosio-abigen. DO NOT EDIT ",
+    "version": "eosio::abi/1.1",
+    "types": [],
+    "structs": [
+        {
+            "name": "borrar",
+            "base": "",
+            "fields": [
+                {
+                    "name": "patreon",
+                    "type": "name"
+                }
+            ]
+        },
+        {
+            "name": "entrada",
+            "base": "",
+            "fields": [
+                {
+                    "name": "patreon",
+                    "type": "name"
+                },
+                {
+                    "name": "cantidad",
+                    "type": "float64"
+                }
+            ]
+        },
+        {
+            "name": "notifica",
+            "base": "",
+            "fields": [
+                {
+                    "name": "patreon",
+                    "type": "name"
+                },
+                {
+                    "name": "memo",
+                    "type": "string"
+                }
+            ]
+        },
+        {
+            "name": "tabla_saldos",
+            "base": "",
+            "fields": [
+                {
+                    "name": "patreon",
+                    "type": "name"
+                },
+                {
+                    "name": "balance",
+                    "type": "float64"
+                }
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "name": "borrar",
+            "type": "borrar",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "entrada",
+            "type": "entrada",
+            "ricardian_contract": ""
+        },
+        {
+            "name": "notifica",
+            "type": "notifica",
+            "ricardian_contract": ""
+        }
+    ],
+    "tables": [
+        {
+            "name": "saldos",
+            "type": "tabla_saldos",
+            "index_type": "i64",
+            "key_names": [],
+            "key_types": []
+        }
+    ],
+    "ricardian_clauses": [],
+    "variants": []
+}

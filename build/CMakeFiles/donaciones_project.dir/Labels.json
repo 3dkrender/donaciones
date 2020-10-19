@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/wax/donaciones/build/CMakeFiles/donaciones_project"
+		},
+		{
+			"file" : "/wax/donaciones/build/CMakeFiles/donaciones_project.rule"
+		},
+		{
+			"file" : "/wax/donaciones/build/CMakeFiles/donaciones_project-complete.rule"
+		},
+		{
+			"file" : "/wax/donaciones/build/donaciones_project-prefix/src/donaciones_project-stamp/donaciones_project-install.rule"
+		},
+		{
+			"file" : "/wax/donaciones/build/donaciones_project-prefix/src/donaciones_project-stamp/donaciones_project-mkdir.rule"
+		},
+		{
+			"file" : "/wax/donaciones/build/donaciones_project-prefix/src/donaciones_project-stamp/donaciones_project-download.rule"
+		},
+		{
+			"file" : "/wax/donaciones/build/donaciones_project-prefix/src/donaciones_project-stamp/donaciones_project-update.rule"
+		},
+		{
+			"file" : "/wax/donaciones/build/donaciones_project-prefix/src/donaciones_project-stamp/donaciones_project-patch.rule"
+		},
+		{
+			"file" : "/wax/donaciones/build/donaciones_project-prefix/src/donaciones_project-stamp/donaciones_project-configure.rule"
+		},
+		{
+			"file" : "/wax/donaciones/build/donaciones_project-prefix/src/donaciones_project-stamp/donaciones_project-build.rule"
+		},
+		{
+			"file" : "/wax/donaciones/build/donaciones_project-prefix/src/donaciones_project-stamp/donaciones_project-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"donaciones_project"
+		],
+		"name" : "donaciones_project"
+	}
+}

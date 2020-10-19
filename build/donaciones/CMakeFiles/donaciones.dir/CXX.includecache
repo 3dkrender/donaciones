@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/wax/donaciones/src/../include/donaciones.hpp
+eosio/eosio.hpp
+-
+
+/wax/donaciones/src/donaciones.cpp
+donaciones.hpp
+-
+

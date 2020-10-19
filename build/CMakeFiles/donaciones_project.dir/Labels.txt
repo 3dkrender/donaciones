@@ -1,0 +1,14 @@
+# Target labels
+ donaciones_project
+# Source files and their labels
+/wax/donaciones/build/CMakeFiles/donaciones_project
+/wax/donaciones/build/CMakeFiles/donaciones_project.rule
+/wax/donaciones/build/CMakeFiles/donaciones_project-complete.rule
+/wax/donaciones/build/donaciones_project-prefix/src/donaciones_project-stamp/donaciones_project-install.rule
+/wax/donaciones/build/donaciones_project-prefix/src/donaciones_project-stamp/donaciones_project-mkdir.rule
+/wax/donaciones/build/donaciones_project-prefix/src/donaciones_project-stamp/donaciones_project-download.rule
+/wax/donaciones/build/donaciones_project-prefix/src/donaciones_project-stamp/donaciones_project-update.rule
+/wax/donaciones/build/donaciones_project-prefix/src/donaciones_project-stamp/donaciones_project-patch.rule
+/wax/donaciones/build/donaciones_project-prefix/src/donaciones_project-stamp/donaciones_project-configure.rule
+/wax/donaciones/build/donaciones_project-prefix/src/donaciones_project-stamp/donaciones_project-build.rule
+/wax/donaciones/build/donaciones_project-prefix/src/donaciones_project-stamp/donaciones_project-test.rule
